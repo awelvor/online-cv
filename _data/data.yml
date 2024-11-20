@@ -183,9 +183,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Paroisse Bonne Nouvelle
+        link: "https://lannion-pleumeur.catholique.fr/"
+        tagline: "Webmaster pour le site de la Paroisse Bonne Nouvelle Lannion-Pleumeur-Bodou"
 
       - title: DevStudio
         link: "#"
