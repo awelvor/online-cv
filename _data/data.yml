@@ -54,7 +54,7 @@ projects:
         link: "#"
         tagline: Création de modèles de documents
         
-    - title: Paroisse Bonne Nouvelle
+      - title: Paroisse Bonne Nouvelle
         link: "https://lannion-pleumeur.catholique.fr/"
         tagline: "Webmaster (site Wordpress + Elementor)"
 
