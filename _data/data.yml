@@ -50,7 +50,11 @@ projects:
     intro: 
       
     assignments:
-      - title: Paroisse Bonne Nouvelle
+      - title: Enoria - Paroisse Bonne Nouvelle
+        link: 
+        tagline: Création de modèles de documents
+        
+    - title: Paroisse Bonne Nouvelle
         link: "https://lannion-pleumeur.catholique.fr/"
         tagline: "Webmaster (site Wordpress + Elementor)"
 
