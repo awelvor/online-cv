@@ -185,23 +185,15 @@ projects:
     assignments:
       - title: Paroisse Bonne Nouvelle
         link: "https://lannion-pleumeur.catholique.fr/"
-        tagline: "Webmaster pour le site de la Paroisse Bonne Nouvelle Lannion-Pleumeur-Bodou"
+        tagline: "Webmaster (site Wordpress + Elementor)"
 
-      - title: HOSPITALITE NOTRE-DAME DE LOURDES
+      - title: Hospitalité Notre-Dame de Lourdes
         link: "https://hospitalite22.catholique.fr/"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Webmaster (site Wordpress)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Paroisse de Perros-Guirec
+        link: "https://perros-guirec.catholique.fr/"
+        tagline: "Support (site SPIP)"
 
 
 
