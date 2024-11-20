@@ -57,6 +57,16 @@ sidebar:
         - item: Cooking
           link:
 
+activites:
+    title: Activites
+    info:
+      - role: Lead Developer
+        time: 2024 - Present
+        company: Startup Hubs, San Francisco
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        
 career-profile:
     title: Career Profile
     summary: |
