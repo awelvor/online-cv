@@ -57,15 +57,7 @@ sidebar:
         - item: Cooking
           link:
 
-activites:
-    title: Activites
-    info:
-      - role: Lead Developer
-        time: 2024 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+
         
 career-profile:
     title: Career Profile
@@ -103,11 +95,11 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Parcours
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Ingénieur
+        time: 1973 à 2005
+        company: Alcatel
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
